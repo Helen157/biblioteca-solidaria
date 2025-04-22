@@ -1,0 +1,36 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "O Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "categoria": "Literatura Infantil",
+      "disponivel": true,
+      "dataCadastro": "2023-10-01"
+    },
+    {
+      "id": 2,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "categoria": "Clássico",
+      "disponivel": true,
+      "dataCadastro": "2023-10-05"
+    },
+    {
+      "id": 3,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "categoria": "Ficção Distópica",
+      "disponivel": true,
+      "dataCadastro": "2023-10-10"
+    },
+    {
+      "id": 4,
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "categoria": "Romance",
+      "disponivel": true,
+      "dataCadastro": "2023-10-15"
+    }
+  ]
+}
