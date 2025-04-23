@@ -116,4 +116,4 @@ src/
 ---
 
 Esta API foi desenvolvida como parte do Miniprojeto do Módulo 4 - Programadores do Amanhã.  
-📌 Publicação no LinkedIn:
+📌 Publicação no LinkedIn: [https://www.linkedin.com/posts/helen-gon%C3%A7alves2023_programadoresdoamanhaet-formaaexaetotech-activity-7320864514638266369-HLzq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZLmjIByZIdn1ONODfDr-LuhSEjP_t_uJc]
