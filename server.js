@@ -1,9 +1,17 @@
 import express from "express";
+import cors from "cors";
 import { livroController } from "./src/controllers/livroController.js";
 import { emprestimoController } from "./src/controllers/emprestimoController.js";
 
 const app = express();
 app.use(express.json());
+
+app.use(
+  cors({
+    origin: "http://localhost:3001", // permite acesso apenas ao frontend da biblioteca desenvolvida no M5
+    credentials: true,
+  })
+);
 
 // Rotas
 app.get("/livros", livroController.listarLivros);
