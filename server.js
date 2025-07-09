@@ -8,7 +8,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: "http://localhost:3001", // permite acesso apenas ao frontend da biblioteca desenvolvida no M5
+    origin: "https://biblioteca-solidaria-frontend.vercel.app/", // permite acesso apenas ao frontend da biblioteca desenvolvida no M5
     credentials: true,
   })
 );
